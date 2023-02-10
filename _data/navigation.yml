@@ -1,6 +1,6 @@
 # the masthead
 main:
-  - title: "Home"
+  - title: "About"
     url: about/
   # - title: "About"
   #   url: about/
