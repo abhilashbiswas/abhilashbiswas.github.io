@@ -1,6 +1,6 @@
 ---
 header:
-  overlay_image: assets/images/chicago_inside.jpg
+  overlay_image: assets/images/chicago_inside.png
 permalink: /portfolio/chicago/
 ---
 

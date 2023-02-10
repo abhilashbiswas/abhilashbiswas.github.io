@@ -31,6 +31,14 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
+  - image_path: assets/images/myanmar.png
+    # alt: "DeskAI"
+    # title: "Predicting unmet mental health needs in Johnson County, Kansas"
+    excerpt: "Analyzing trends in arrests and imprisonment in Myanmar Coup, 2020"
+    url: "assets/docs/myanmar.html"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
 ---
 
 <div style="margin-bottom:1cm" align="center"><font size="55">Selected Projects</font></div>
