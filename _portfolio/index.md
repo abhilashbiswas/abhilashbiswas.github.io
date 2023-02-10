@@ -7,27 +7,13 @@ permalink: /portfolio/index.html
 date: 2018-01-07
 
 feature_row:
-  - image_path: assets/images/ai_head.jpg
+  - image_path: assets/images/mlpp_project.png
     alt: "DeskAI"
-    title: "DeskAI: Smarter Online User Targeting"
-    excerpt: "Automated optimization of online advertising campaigns."
-    url: "/portfolio/deskai/"
+    title: "Predicting unmet mental health needs in Johnson County, Kansas"
+    # excerpt: "Automated optimization of online advertising campaigns."
+    url: "assets/docs/mlpp_project.pdf"
     btn_label: "Read More"
     btn_class: "btn--primary"	
-  - image_path: /assets/images/miles.jpg
-    alt: "Music"
-    title: "Algorithmic Musical Genre Classification"
-    excerpt: "Detection of musical genre directly from the audio file."
-    url: "/portfolio/genre_cls/"
-    btn_label: "Read More"
-    btn_class: "btn--primary"	
-  - image_path: /assets/images/social_network.jpg
-    alt: "Social Network"
-    title: "Anomaly Detection in Social Networks"
-    excerpt: "Anomaly detection in social network data, using the graph resistance."
-    url: "/portfolio/social-networks/"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
 ---
 
 # Portfolio
@@ -49,6 +35,3 @@ about technical details I've glossed over, feel free to [contact me][2].
 
 <!------------------------------- FOOTER --------------------------------->
 
-[1]: /assets/docs/resume.pdf
-
-[2]: mailto:peter@pwills.com
