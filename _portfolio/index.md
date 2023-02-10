@@ -14,7 +14,6 @@ feature_row:
     url: "assets/docs/mlpp_project.pdf"
     btn_label: "Read More"
     btn_class: "btn--primary"
-    id: "row1"
 
 
 feature_row:
@@ -31,6 +30,6 @@ feature_row:
 
 <div style="margin-bottom:1cm" align="center"><font size="55">Selected Projects</font></div>
 
-{% include feature_row id="row1"%}
-{% include feature_row id="row2" %}
+{% include feature_row %}
+{% include feature_row id="row2"%}
 
