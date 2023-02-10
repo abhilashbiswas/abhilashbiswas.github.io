@@ -13,29 +13,26 @@ main:
 
 # sidebar for portfolio
 portfolio:
-  - title: "Projects"
+  - title: "Technical skills"
     children:
-#      - title: "Machine Learning on AWS"
-#        url: /portfolio/coming/
-      - title: "Anomaly Detection in Social Networks"
-        url: /portfolio/social-networks/
-      - title: "NetComp: Python Network Comparison"
-        url: /portfolio/netcomp/
-      - title: "Automatic Genre Classification"
-        url: /portfolio/genre_cls/
+      - title: "Machine Learning (Supervised and unsupervised)"
+      - title: "Causal Inference (RCTs, A/B testing, Quasi-experiments)"
+      - title: "Optimization"
+      - title: "Computer vision"
 
-  - title: "Professional"
+portfolio:
+  - title: "Programming languages"
     children:
-      - title: "DeskAI"
-        url: /portfolio/deskai
-      - title: "Smart Climate Index"
-        url: /portfolio/sclm
+      - title: "Python"
+      - title: "SQL"
+      - title: "AWS"
+      - title: "R"
 
-  - title: "Research"
+  - title: "Packages and libraries"
     children:
-      - title: "Dynamic Anomaly Detection"
-        url: /portfolio/networks/
-      - title: "Statistics of Entanglement"
-        url: /portfolio/qm_stats/
-      - title: "Magnetic Waves and Noise"
-        url: /portfolio/waves/
+      - title: "scikit-learn, scikit-image "
+      - title: "OpenCV"
+      - title: "PyTorch"
+      - title: "PySpark"
+      - title: "GurobiPy"
+
