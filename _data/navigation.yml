@@ -16,7 +16,7 @@ portfolio:
   - title: "Technical skills"
     children:
       - title: "Machine Learning (Supervised and unsupervised)"
-      - title: "Causal Inference (RCTs, A/B testing, Quasi-experiments)"
+      - title: "Causal Inference (RCTs, A/B testing)"
       - title: "Optimization"
       - title: "Computer vision"
 

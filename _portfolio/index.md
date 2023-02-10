@@ -2,31 +2,40 @@
 classes: wide
 header:
   overlay_image: /assets/images/tools.jpg
-  caption: "Photo credit: [**Ricky Kharawala**](https://unsplash.com)"
+  # caption: "Photo credit: [**Ricky Kharawala**](https://unsplash.com)"
 permalink: /portfolio/index.html
-date: 2018-01-07
+# date: 2018-01-07
 
 feature_row:
   - image_path: assets/images/mlpp_project.png
-    alt: "DeskAI"
-    title: "Predicting unmet mental health needs in Johnson County, Kansas"
-    # excerpt: "Automated optimization of online advertising campaigns."
+    # alt: "DeskAI"
+    # title: "Predicting unmet mental health needs in Johnson County, Kansas"
+    excerpt: "Predicting unmet mental health needs in Johnson County, Kansas"
     url: "assets/docs/mlpp_project.pdf"
     btn_label: "Read More"
-    btn_class: "btn--primary"	
+    btn_class: "btn--primary"
+
+
 ---
 
 # Portfolio
 
-Here you'll find summaries of the major projects I've done over the years, which
-are representative of my skills and interests. These projects span everything
-from mathematical physics to machine learning, from finance to advertising, from
-the theoretical to the practical.
+## Predicting unmet mental health needs in Johsnon County, Kansas
 
-The discussion here is generally non-technical; for the research projects,
-related publications can be found in [my resume][1]. There are also links to
-documents at the top of each page, which offer more depth. If you're curious
-about technical details I've glossed over, feel free to [contact me][2].
+<figure>
+  <img src="assets/images/mlpp_project.png" alt="this is a placeholder image">
+  <!-- <figcaption>This is a figure caption.</figcaption> -->
+</figure>
+
+feature_row:
+  <!-- - image_path: assets/images/mlpp_project.png
+    # alt: "DeskAI"
+    # title: "Predicting unmet mental health needs in Johnson County, Kansas"
+    excerpt: "Predicting unmet mental health needs in Johnson County, Kansas" -->
+    url: "assets/docs/mlpp_project.pdf"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
 
 
 <div style="margin-bottom:1cm" align="center"><font size="55">Selected Projects</font></div>
