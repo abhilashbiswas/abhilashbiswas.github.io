@@ -2,10 +2,10 @@
 header:
   overlay_image: assets/images/chicago_inside.jpg
 #   caption: "Photo credit: [**Roman Mager**](https://www.unsplash.com)"
-# permalink: /portfolio/waves/
+permalink: /portfolio/chicago/
 # date: 2018-01-16
-# toc: true
-# toc_label: "Contents"
+toc: true
+toc_label: "Contents"
 ---
 
 # Predicting police violence in Chicago
