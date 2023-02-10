@@ -3,11 +3,11 @@ main:
   - title: "Home"
     url: /
   - title: "About"
-    url: /about/
+    url: about/
   - title: "Portfolio"
     url: /portfolio/
   - title: "Resume"
-    url: /assets/docs/resume.pdf
+    url: assets/docs/resume.pdf
   # - title: "Blog"
   #   url: /blog/
 
