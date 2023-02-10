@@ -15,16 +15,13 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-
-feature_row:
   - image_path: assets/images/chicago.png
     # alt: "DeskAI"
     # title: "Predicting unmet mental health needs in Johnson County, Kansas"
     excerpt: "Predicting likelihood of police violence in Chicago"
-    url: "portfolio/chicago.md"
+    url: "_portfolio/chicago.md"
     btn_label: "Read More"
     btn_class: "btn--primary"
-    id: "row2"
 
 ---
 
