@@ -6,14 +6,14 @@ header:
 permalink: /portfolio/index.html
 # date: 2018-01-07
 
-feature_row:
-  - image_path: assets/images/mlpp_project.png
-    # alt: "DeskAI"
-    # title: "Predicting unmet mental health needs in Johnson County, Kansas"
-    excerpt: "Predicting unmet mental health needs in Johnson County, Kansas"
-    url: "assets/docs/mlpp_project.pdf"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+# feature_row:
+#   - image_path: assets/images/mlpp_project.png
+#     # alt: "DeskAI"
+#     # title: "Predicting unmet mental health needs in Johnson County, Kansas"
+#     excerpt: "Predicting unmet mental health needs in Johnson County, Kansas"
+#     url: "assets/docs/mlpp_project.pdf"
+#     btn_label: "Read More"
+#     btn_class: "btn--primary"
 
 
 ---
@@ -27,7 +27,7 @@ feature_row:
   <!-- <figcaption>This is a figure caption.</figcaption> -->
 </figure>
 
-{% include button.html url="assets/docs/mlpp_project.pdf" %}
+
 <button name="Read more" onclick="assets/docs/mlpp_project.pdf">Read more</button>
 
 <!------------------------------- FOOTER --------------------------------->
