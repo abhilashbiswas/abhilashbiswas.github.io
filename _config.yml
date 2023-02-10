@@ -23,7 +23,7 @@ plugins:
 markdown: kramdown
 # theme: "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "dirt"
+minimal_mistakes_skin: "air"
   
 # settings for author profile
 author:
