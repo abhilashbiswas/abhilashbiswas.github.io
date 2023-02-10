@@ -6,29 +6,31 @@ header:
 permalink: /portfolio/index.html
 # date: 2018-01-07
 
-# feature_row:
-#   - image_path: assets/images/mlpp_project.png
-#     # alt: "DeskAI"
-#     # title: "Predicting unmet mental health needs in Johnson County, Kansas"
-#     excerpt: "Predicting unmet mental health needs in Johnson County, Kansas"
-#     url: "assets/docs/mlpp_project.pdf"
-#     btn_label: "Read More"
-#     btn_class: "btn--primary"
+feature_row:
+  - image_path: assets/images/mlpp_project.png
+    # alt: "DeskAI"
+    # title: "Predicting unmet mental health needs in Johnson County, Kansas"
+    excerpt: "Predicting unmet mental health needs in Johnson County, Kansas"
+    url: "assets/docs/mlpp_project.pdf"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+    id: "row1"
 
+
+feature_row:
+  - image_path: assets/images/chicago.png
+    # alt: "DeskAI"
+    # title: "Predicting unmet mental health needs in Johnson County, Kansas"
+    excerpt: "Predicting likelihood of police violence in Chicago"
+    url: "portfolio/chicago.md"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+    id: "row2"
 
 ---
 
-# Portfolio
+<div style="margin-bottom:1cm" align="center"><font size="55">Selected Projects</font></div>
 
-## Predicting unmet mental health needs in Johsnon County, Kansas
-
-<figure>
-  <img src="{{ "assets/images/mlpp_project.png" | absolute_url }}" width="50%" hspace="20" >
-  <!-- <figcaption>This is a figure caption.</figcaption> -->
-</figure>
-
-
-<button name="Read more" onclick="assets/docs/mlpp_project.pdf">Read more</button>
-
-<!------------------------------- FOOTER --------------------------------->
+{% include feature_row id="row1"%}
+{% include feature_row id="row2" %}
 
