@@ -23,7 +23,7 @@ feature_row:
 ## Predicting unmet mental health needs in Johsnon County, Kansas
 
 <figure>
-  <img src="assets/images/mlpp_project.png" alt="this is a placeholder image">
+  <img src="{{ "assets/images/mlpp_project.png" | absolute_url }}" width="50%" hspace="20" >
   <!-- <figcaption>This is a figure caption.</figcaption> -->
 </figure>
 
