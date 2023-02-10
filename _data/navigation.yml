@@ -20,7 +20,6 @@ portfolio:
       - title: "Optimization"
       - title: "Computer vision"
 
-portfolio:
   - title: "Programming languages"
     children:
       - title: "Python"
