@@ -1,8 +1,9 @@
 ---
 title: " "
 header:
-  # overlay_image: /assets/images/utah.jpg
-  # caption: "Photo Credit: **Kathleen Finlinson**"
+  overlay_color: "#000"
+  overlay_filter: "0"
+  overlay_image: /assets/images/cover_photo.jpg
 permalink: /
 ---
 

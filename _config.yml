@@ -2,7 +2,7 @@
 
 title: ""
 name: ""
-email: abhilashbiswas50@gmail.com
+email: 
 
 include:
   - _pages
@@ -23,7 +23,7 @@ plugins:
 markdown: kramdown
 # theme: "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "neon"
+minimal_mistakes_skin: "dirt"
   
 # settings for author profile
 author:
