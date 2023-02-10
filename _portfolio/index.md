@@ -23,6 +23,14 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
+  - image_path: assets/images/food_access.png
+    # alt: "DeskAI"
+    # title: "Predicting unmet mental health needs in Johnson County, Kansas"
+    excerpt: "Optimizing placement of a new grocery store to minimize food insecurity in Pittsburgh"
+    url: "https://github.com/jameson-c/Food-Access"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
 ---
 
 <div style="margin-bottom:1cm" align="center"><font size="55">Selected Projects</font></div>
