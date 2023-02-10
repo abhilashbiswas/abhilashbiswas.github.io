@@ -39,6 +39,14 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
+  - image_path: assets/images/healthaccess.png
+    # alt: "DeskAI"
+    # title: "Predicting unmet mental health needs in Johnson County, Kansas"
+    excerpt: "Providing information about nearest hospitals using Gmaps and webscraping"
+    url: "https://github.com/abhilashbiswas/HealthAccess-proof-of-concept"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
 ---
 
 <div style="margin-bottom:1cm" align="center"><font size="55">Selected Projects</font></div>
