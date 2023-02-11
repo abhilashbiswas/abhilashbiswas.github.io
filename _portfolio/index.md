@@ -1,7 +1,7 @@
 ---
 classes: wide
 header:
-  overlay_image: /assets/images/cover_photo_2.jpg
+  overlay_image: /assets/images/cover_photo_3.png
   # caption: "Photo credit: [**Ricky Kharawala**](https://unsplash.com)"
 permalink: /portfolio/index.html
 # date: 2018-01-07
