@@ -7,7 +7,6 @@ permalink: /portfolio/index.html
 # date: 2018-01-07
 
 feature_row:
-
   - image_path: assets/images/dssg.png
     # alt: "DeskAI"
     # title: "Predicting unmet mental health needs in Johnson County, Kansas"
@@ -16,7 +15,7 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-- image_path: assets/images/mlpp_project.png
+  - image_path: assets/images/mlpp_project.png
     # alt: "DeskAI"
     # title: "Predicting unmet mental health needs in Johnson County, Kansas"
     excerpt: "Predicting unmet mental health needs in Johnson County, Kansas"
