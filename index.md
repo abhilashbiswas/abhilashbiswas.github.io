@@ -9,7 +9,9 @@ permalink: /
 
 # About Me
 
-I am Abhilash and I am currently pursuing an MS in public policy and data science at Carnegie Mellon University. I have a background in Economics. Prior to this, I worked for four years at [IDinsight][1], a global non profit, where we generated data-driven evidence to help policymakers make informed decisions. 
+I am Abhilash and I am currently working as a Data Scientist at Dick's Sporting Goods, helping the merchandising team allocate inventory optimally and forecasts future sales accurately. 
+
+I studied public policy and data science at Carnegie Mellon University. I have a background in Economics. Prior to this, I worked for four years at [IDinsight][1], a global non profit, where we generated data-driven evidence to help policymakers make informed decisions. 
 
 I am keen to use data and analytics to tackle complex problems, especially those that can positively impact lives. During my prior work experience, I spent time tackling [the challenges][2] that policymakers in India face while attempting to deliver critical welfare services to large populations. I was a founding member of a lean innovation team called [Data on Demand][3] that used technological innovation to make high quality data accessible to policymakers. 
 
